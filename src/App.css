@@ -1,0 +1,15 @@
+#signup-div{
+  border: 1px solid white;
+  text-align: center;
+  width: fit-content;
+  margin: auto;
+  padding: 20px 20px 20px 20px;
+  margin-top: 10%;
+}
+#link{
+  color: white;
+}
+body{
+  background-color: cadetblue;
+  color: white;
+}
